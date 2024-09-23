@@ -1,0 +1,21 @@
+{
+  "name": "lexicaldecision_path_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "files": [
+    "build/*",
+    ".yalc"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d build"
+  },
+  "author": "L3",
+  "license": "MIT",
+  "dependencies": {
+    "build-if-changed": "^1.5.5",
+    "pushkin-api": "file:.yalc/pushkin-api"
+  },
+  "yalcSig": "54851eb8e8b114693a47a78b84160657"
+}

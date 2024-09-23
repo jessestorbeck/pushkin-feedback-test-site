@@ -1,0 +1,30 @@
+{
+  "version": "v1",
+  "packages": {
+    "@pushkin-templates/site-basic": {
+      "version": "1.1.0",
+      "signature": "92832f8af1418d62779f576f9fc04039",
+      "file": true
+    },
+    "@pushkin-templates/exp-basic": {
+      "version": "6.2.0",
+      "signature": "a237155b2b39753a73c687ef82ae893f",
+      "file": true
+    },
+    "@pushkin-templates/exp-grammaticality-judgment": {
+      "version": "6.2.0",
+      "signature": "0a7ce1ef9def30b72c8d45982ed848fc",
+      "file": true
+    },
+    "@pushkin-templates/exp-lexical-decision": {
+      "version": "6.2.0",
+      "signature": "53d0e14bc526f745503ffa75469b255c",
+      "file": true
+    },
+    "@pushkin-templates/exp-self-paced-reading": {
+      "version": "6.2.0",
+      "signature": "e4eeccad0b32151fac290b3c02f6fe8d",
+      "file": true
+    }
+  }
+}

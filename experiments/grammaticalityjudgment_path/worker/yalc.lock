@@ -1,0 +1,10 @@
+{
+  "version": "v1",
+  "packages": {
+    "pushkin-worker": {
+      "signature": "ca1cdb574f1b24a44cbcce289004c3e2",
+      "file": true,
+      "replaced": "^3.0.2"
+    }
+  }
+}

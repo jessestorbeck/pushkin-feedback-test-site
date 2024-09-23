@@ -1,0 +1,10 @@
+{
+  "version": "v1",
+  "packages": {
+    "pushkin-api": {
+      "signature": "cc4f9a5c3ffc20149b74cf300c6ff418",
+      "file": true,
+      "replaced": "^1.6.0"
+    }
+  }
+}
