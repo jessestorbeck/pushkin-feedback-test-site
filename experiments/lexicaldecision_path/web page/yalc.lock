@@ -2,7 +2,7 @@
   "version": "v1",
   "packages": {
     "pushkin-client": {
-      "signature": "724785ac5805fea435b7154159935e39",
+      "signature": "d0d6960e4b98e20c02f68ac7ca9bc76f",
       "file": true,
       "replaced": "^1.7.1"
     }

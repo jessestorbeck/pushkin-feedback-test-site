@@ -2,23 +2,23 @@
   "version": "v1",
   "packages": {
     "basic_path_api": {
-      "signature": "d6a2888cf2128a295cf6c863ad3d620f",
+      "signature": "9c231f4d27567126830355642fe06a49",
       "file": true
     },
     "grammaticalityjudgment_path_api": {
-      "signature": "43d28dd8a6275faaa38e2819cb408549",
+      "signature": "b8472b42139688ba8ddc1417bf6252c6",
       "file": true
     },
     "lexicaldecision_path_api": {
-      "signature": "54851eb8e8b114693a47a78b84160657",
+      "signature": "774c085b839298d3a241af6de0a498f0",
       "file": true
     },
     "selfpacedreading_path_api": {
-      "signature": "fb153011233ed3cb5791abda71689a43",
+      "signature": "a9d4f6bb21ff8dec5a0d895174e89aa8",
       "file": true
     },
     "pushkin-api": {
-      "signature": "cc4f9a5c3ffc20149b74cf300c6ff418",
+      "signature": "07c21a16c62ed05879bac891ae3860ee",
       "file": true,
       "replaced": "^1.6.0"
     }

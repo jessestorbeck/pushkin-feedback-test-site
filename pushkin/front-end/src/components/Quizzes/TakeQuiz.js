@@ -17,11 +17,11 @@ const mapStateToProps = state => {
 };
 
 const TakeQuiz = (props) => {
-  let { quizName } = useParams()
+  const { quizName } = useParams()
   const QuizComponent = expObject[quizName];
   return (
     <div>
-      <QuizComponent {...props} api={CONFIG.apiEndpoint.concat('/').concat(quizName)} />
+      <QuizComponent {...props} api={`${CONFIG.apiEndpoint}/${quizName}`} />
     </div>
   );
 }

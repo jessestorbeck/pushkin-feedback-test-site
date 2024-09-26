@@ -30,3 +30,5 @@ text: Enter your experiment description here.
 tagline: Be a citizen scientist! Try this quiz.
 duration: ''
 productionDB: Main
+calculateExpResults: true
+showExpResults: true

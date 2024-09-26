@@ -17,5 +17,5 @@
     "build-if-changed": "^1.5.5",
     "pushkin-api": "file:.yalc/pushkin-api"
   },
-  "yalcSig": "fb153011233ed3cb5791abda71689a43"
+  "yalcSig": "a9d4f6bb21ff8dec5a0d895174e89aa8"
 }

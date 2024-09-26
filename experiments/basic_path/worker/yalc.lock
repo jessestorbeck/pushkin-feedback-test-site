@@ -2,7 +2,7 @@
   "version": "v1",
   "packages": {
     "pushkin-worker": {
-      "signature": "ca1cdb574f1b24a44cbcce289004c3e2",
+      "signature": "6d846c2fabdc46893e09c55715da5a64",
       "file": true,
       "replaced": "^3.0.2"
     }

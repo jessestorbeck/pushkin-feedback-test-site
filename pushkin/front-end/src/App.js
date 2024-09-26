@@ -11,6 +11,7 @@ import './App.css';
 import Header from './components/Layout/Header';
 import Footer from './components/Layout/Footer';
 import TakeQuiz from './components/Quizzes/TakeQuiz';
+import Results from './components/Quizzes/Results';
 
 //import pages
 import HomePage from './pages/Home';
@@ -29,6 +30,7 @@ function App() {
         <Route path="/findings"><FindingsPage /></Route>
         <Route path="/about"><AboutPage /></Route>
         <Route path="/feedback"><FeedbackPage /></Route>
+        <Route path="/quizzes/:quizName/results"><Results /></Route>
         <Route path="/quizzes/:quizName"><TakeQuiz /></Route>
     </Switch><div style={{ height: '150px', marginTop: '3rem' }}></div><Footer />
     </div></>
